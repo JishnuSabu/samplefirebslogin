@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336466912250",
+    "project_id": "sampleelogin",
+    "storage_bucket": "sampleelogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336466912250:android:d0b55ddc55806e73b3ba43",
+        "android_client_info": {
+          "package_name": "com.example.samplefirebslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336466912250-m40sbhq5tr5kabbi3aed0n077h7to014.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_i62yD2DOb9_dZ5eS94NXBej5PQWL1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336466912250-m40sbhq5tr5kabbi3aed0n077h7to014.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

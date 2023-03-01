@@ -188,6 +188,7 @@ class _SignupFormState extends State<SignupForm> {
             },
           ),
 
+
           Row(
             children: <Widget>[
               Checkbox(

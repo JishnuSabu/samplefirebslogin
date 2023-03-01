@@ -18,6 +18,7 @@ class AuthenticationHelper {
     }
   }
 
+
   //SIGN IN METHOD
   Future<String?> signIn({required String email, required String password}) async {
     try {
